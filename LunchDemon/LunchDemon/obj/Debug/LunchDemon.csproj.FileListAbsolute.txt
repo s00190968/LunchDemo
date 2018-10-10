@@ -1,0 +1,7 @@
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\bin\Debug\LunchDemon.exe.config
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\bin\Debug\LunchDemon.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\bin\Debug\LunchDemon.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\obj\Debug\LunchDemon.csprojAssemblyReference.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\obj\Debug\LunchDemon.csproj.CoreCompileInputs.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\obj\Debug\LunchDemon.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Lab4\LunchDemon\LunchDemon\obj\Debug\LunchDemon.pdb
